@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://cims3vyi8epu8"]
 
 [ext_resource type="Script" uid="uid://c7mgx72864y3g" path="res://tests/test_scene.gd" id="1_stypt"]
-[ext_resource type="Resource" uid="uid://b3yg2pjgibws6" path="res://tests/referenced_scene.tres" id="2_rtd5x"]
+[ext_resource type="Resource" uid="uid://b3yg2pjgibws6" path="res://tests/example_scene.tres" id="2_rtd5x"]
 
 [node name="TestScene" type="Control"]
 layout_mode = 3
