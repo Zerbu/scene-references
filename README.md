@@ -1,0 +1,1 @@
+A simple Godot plugin that adds a "SceneReference" resource class and a quick way to assign one to a scene. A SceneReference can be used to reference the scene from a variable elsewhere in the project, and is more efficient than using PackedScene or loading from the scene path directly.
