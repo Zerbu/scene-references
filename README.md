@@ -7,3 +7,4 @@ This plugin adds a custom inspector to the top of all scene root nodes that lets
 You can create your own resource class that inherits `SceneReference`. So, unlike with a `PackedScene` or file path, you can restrict a variable to only show certain types of scenes. On top of that, you can add additional data to a reference such as a name of description, and use that data without having to load the entire scene.
 
 ![scene-references](https://github.com/Zerbu/scene-references/blob/main/.screenshots/scene-references.png)
+![scene-references-example](https://github.com/Zerbu/scene-references/blob/main/.screenshots/scene-references-example.png)
