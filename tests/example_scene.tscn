@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://cn5cx5k3yhmbf"]
 
-[node name="OtherScene" type="MarginContainer"]
+[node name="ExampleScene" type="MarginContainer"]
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
