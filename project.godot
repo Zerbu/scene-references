@@ -21,4 +21,4 @@ SceneReferenceManager="*res://addons/scene_references/scene_reference_manager.gd
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/scene_references/plugin.cfg")
+enabled=PackedStringArray("res://addons/scene_references/plugin.cfg", "res://addons/scene_references_sample_content/plugin.cfg")

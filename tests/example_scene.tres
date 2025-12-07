@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="NamedSceneReference" load_steps=2 format=3 uid="uid://b3yg2pjgibws6"]
 
-[ext_resource type="Script" uid="uid://chu4hu2htvcng" path="res://tests/named_scene_reference.gd" id="1_hc6jp"]
+[ext_resource type="Script" uid="uid://chu4hu2htvcng" path="res://addons/scene_references_sample_content/named_scene_reference.gd" id="1_hc6jp"]
 
 [resource]
 script = ExtResource("1_hc6jp")
